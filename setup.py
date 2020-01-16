@@ -14,7 +14,7 @@ DESCRIPTION = "Make requirements"
 URL = "https://github.com/RCheese/makereq"
 EMAIL = "ruslan.v.samoylov@gmail.com"
 AUTHOR = "Ruslan Samoylov (RCheese)"
-REQUIRES_PYTHON = ">=3.4.0"
+REQUIRES_PYTHON = ">=3.6.0"
 VERSION = __verison__
 
 # What packages are required for this module to be executed?

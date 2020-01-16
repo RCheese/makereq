@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 __projectname__ = "makereq"
-__verison__ = "0.1.0"
+__verison__ = "0.1.1"
 
 from typing import Union
 
