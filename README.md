@@ -1,18 +1,29 @@
-###MAKEREQ
+## MAKEREQ
+
 ___
+
 Tool for creating requirements.txt from any dep files
+
 ___
-INSTALL:
+
+#### INSTALL:
+
 ```shell script
 pip install makereq
 ```
+
 ___
-Usage:
+
+#### Usage:
+
 ```shell script
 makereq /home/user/Project/Pipfile.lock > requirements.txt
 makereq /home/user/Project/Pipfile.lock --dev > requirements-dev.txt
 ```
-TODO:
+
+___
+
+#### TODO:
  * Add pipfile support
  * Add poetry pyproject.toml support
  * Add poetry.lock support
